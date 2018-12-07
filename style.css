@@ -1,0 +1,22 @@
+#tea li{
+    list-style: none;
+    display:inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+#coffee{
+    background-color: rgb(18, 26, 51);
+}
+.mainsection{
+    background-color:royalblue;
+    align-content: center;
+    width: 1300px;
+    margin-left: 100px;
+
+}
+#kiss{
+    background-color: rgb(13, 14, 43);
+    width: auto;
+    padding: 30px;
+    color:white;
+}
